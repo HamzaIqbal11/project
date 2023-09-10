@@ -42,7 +42,7 @@ class Dashboard extends StatelessWidget {
                           children: [
                             Container(
                               child: Text(
-                                "Hey, Saqib",
+                                "Hey, Hamza",
                                 style: TextStyle(
                                   fontSize: 16,
                                   fontFamily: 'Manrope',
